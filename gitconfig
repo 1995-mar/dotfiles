@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marevelyn7716@gmail.com
+	name = marla escobar
